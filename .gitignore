@@ -1,0 +1,6 @@
+*/.terraform
+*.lock
+*.git
+*.tf.state
+*.backup
+*.tfstate.backup
